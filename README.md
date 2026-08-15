@@ -36,7 +36,7 @@ También cuento con conocimientos de JDBC, SQL, sistemas operativos, direccionam
 ## 🚀 En qué estoy trabajando
 
 - Fortaleciendo mis proyectos de Java y MySQL con documentación profesional.
-- Preparando evidencias de prácticas de redes para publicarlas de forma segura.
+- Ampliando mis laboratorios de redes, Linux y automatización con Bash.
 - Desarrollando **NOVA**, un proyecto tecnológico personal cuya implementación permanece privada.
 
 ## 💼 Experiencia y emprendimiento
@@ -46,8 +46,7 @@ También cuento con conocimientos de JDBC, SQL, sistemas operativos, direccionam
 Emprendimiento de soluciones tecnológicas enfocado en reparación, mantenimiento y optimización de computadoras y laptops.
 
 - Diagnóstico y reparación de equipos.
-- Instalación y optimización de sistemas operativos.
-- Configuración, mantenimiento y diagnóstico de sistemas operativos.
+- Instalación, configuración, optimización y diagnóstico de sistemas operativos.
 - Mantenimiento preventivo y correctivo.
 - Instalación de unidades SSD y memoria RAM.
 - Configuración de impresoras y redes Wi-Fi.
@@ -67,12 +66,6 @@ Aplicación de escritorio desarrollada con Java Swing, JDBC y MySQL para adminis
 
 `Java` `Swing` `JDBC` `MySQL`
 
-### 🔧 [Práctica de Git y GitHub](https://github.com/dilanalex9077-ai/Practica-Git-GitHub)
-
-Proyecto académico que demuestra el uso de control de versiones y tecnologías web como HTML, CSS y JavaScript.
-
-`HTML` `CSS` `JavaScript` `Git`
-
 ### 📚 [Sistema de Biblioteca](https://github.com/dilanalex9077-ai/sistema-biblioteca)
 
 Aplicación Java Swing con MySQL y Maven para administrar libros, usuarios y préstamos mediante una arquitectura organizada por capas.
@@ -81,7 +74,7 @@ Aplicación Java Swing con MySQL y Maven para administrar libros, usuarios y pr�
 
 ### 🧩 [Programación Estructurada](https://github.com/dilanalex9077-ai/programacion-estructurada)
 
-Ejercicios académicos en Java sobre vectores, ciclos, métodos, búsqueda lineal y multiplicación inversa de arreglos.
+Colección de 12 programas Java independientes sobre ciclos, vectores, cadenas, matrices, búsqueda, ordenamiento y lógica algorítmica.
 
 `Java` `Vectores` `Ciclos` `Métodos`
 
