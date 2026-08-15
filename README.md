@@ -16,6 +16,7 @@ Soy estudiante de la Universidad Tecnológica de Tula-Tepeji y me interesa combi
 - 🎓 Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital.
 - 🌐 TSU en Infraestructura de Redes Digitales.
 - 💻 Formación como Técnico Programador.
+- 🛠️ Fundador y responsable de **NeoFix**, emprendimiento de soporte y reparación tecnológica.
 - 🚀 Busco oportunidades de prácticas profesionales para aplicar y ampliar mis conocimientos.
 - 📚 Actualmente continúo aprendiendo programación, bases de datos, redes y ciberseguridad.
 
@@ -37,6 +38,19 @@ También cuento con conocimientos de JDBC, SQL, direccionamiento IP, subnetting,
 - Fortaleciendo mis proyectos de Java y MySQL con documentación profesional.
 - Preparando evidencias de prácticas de redes para publicarlas de forma segura.
 - Desarrollando **NOVA**, un proyecto tecnológico personal cuya implementación permanece privada.
+
+## 💼 Experiencia y emprendimiento
+
+### 🔧 NeoFix — fundador y técnico
+
+Emprendimiento de soluciones tecnológicas enfocado en reparación, mantenimiento y optimización de computadoras y laptops.
+
+- Diagnóstico y reparación de equipos.
+- Instalación y optimización de sistemas operativos.
+- Mantenimiento preventivo y correctivo.
+- Instalación de unidades SSD y memoria RAM.
+- Configuración de impresoras y redes Wi-Fi.
+- Atención al cliente y seguimiento de servicios.
 
 ## 📌 Proyectos destacados
 
