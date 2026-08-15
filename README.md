@@ -73,6 +73,12 @@ Aplicación Java Swing con MySQL y Maven para administrar libros, usuarios y pr�
 
 `Java` `Swing` `MySQL` `Maven`
 
+### 🧩 [Programación Estructurada](https://github.com/dilanalex9077-ai/programacion-estructurada)
+
+Ejercicios académicos en Java sobre vectores, ciclos, métodos, búsqueda lineal y multiplicación inversa de arreglos.
+
+`Java` `Vectores` `Ciclos` `Métodos`
+
 ### ✨ NOVA — proyecto en desarrollo
 
 Proyecto tecnológico personal actualmente en fase de diseño y desarrollo. Por el momento, su implementación, arquitectura y funcionalidades diferenciadoras se mantienen privadas.
