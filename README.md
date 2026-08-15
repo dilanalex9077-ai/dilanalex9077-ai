@@ -6,6 +6,7 @@
 
 ![Disponible para prácticas](https://img.shields.io/badge/Disponible_para-prácticas_profesionales-2ea44f?style=for-the-badge)
 ![Ubicación](https://img.shields.io/badge/Hidalgo-México-0A66C2?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilan-mart%C3%ADnez-b17537429/)
 
 </div>
 
@@ -96,6 +97,7 @@ Proyecto tecnológico personal actualmente en fase de diseño y desarrollo. Por 
 ## 📫 Contacto
 
 - GitHub: [dilanalex9077-ai](https://github.com/dilanalex9077-ai)
+- LinkedIn: [Dilan Martínez](https://www.linkedin.com/in/dilan-mart%C3%ADnez-b17537429/)
 
 ---
 
