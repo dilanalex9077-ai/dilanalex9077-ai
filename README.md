@@ -1,4 +1,4 @@
-# Hola, soy Dilan Alejandro Martínez Mercado 👋
+# Hola, soy Dilan Alejandro Martínez Mercado 
 
 ### Técnico Programador | Ingeniería en Tecnologías de la Información e Innovación Digital | TSU en Infraestructura de Redes Digitales
 
