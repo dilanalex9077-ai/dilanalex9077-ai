@@ -31,7 +31,7 @@ Soy estudiante de la Universidad Tecnológica de Tula-Tepeji y me interesa combi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-También cuento con conocimientos de JDBC, SQL, direccionamiento IP, subnetting, configuración de routers y switches, diseño de redes y soporte técnico.
+También cuento con conocimientos de JDBC, SQL, sistemas operativos, direccionamiento IP, subnetting, configuración de routers y switches, diseño de redes y soporte técnico.
 
 ## 🚀 En qué estoy trabajando
 
@@ -47,6 +47,7 @@ Emprendimiento de soluciones tecnológicas enfocado en reparación, mantenimient
 
 - Diagnóstico y reparación de equipos.
 - Instalación y optimización de sistemas operativos.
+- Configuración, mantenimiento y diagnóstico de sistemas operativos.
 - Mantenimiento preventivo y correctivo.
 - Instalación de unidades SSD y memoria RAM.
 - Configuración de impresoras y redes Wi-Fi.
