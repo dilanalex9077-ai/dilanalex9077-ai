@@ -55,6 +55,12 @@ Emprendimiento de soluciones tecnológicas enfocado en reparación, mantenimient
 
 ## 📌 Proyectos destacados
 
+### 🌐 [Redes y Linux](https://github.com/dilanalex9077-ai/redes-y-linux)
+
+Laboratorios de Cisco Packet Tracer, direccionamiento VLSM y análisis de datos con comandos de Linux sobre un conjunto de información ficticia.
+
+`Packet Tracer` `VLSM` `Linux` `Bash` `awk`
+
 ### 🛒 [Tiendas 4 Babys](https://github.com/dilanalex9077-ai/tiendas-4-babys)
 
 Aplicación de escritorio desarrollada con Java Swing, JDBC y MySQL para administrar ventas, inventario, clientes, proveedores y empleados.
