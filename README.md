@@ -33,6 +33,10 @@ Proyecto académico que demuestra el uso de control de versiones y tecnologías 
 
 Aplicación Java Swing con MySQL y Maven para administrar libros, usuarios y préstamos mediante una arquitectura organizada por capas.
 
+### ✨ NOVA — proyecto en desarrollo
+
+Proyecto tecnológico personal actualmente en fase de diseño y desarrollo. Por el momento, su implementación, arquitectura y funcionalidades diferenciadoras se mantienen privadas.
+
 ## 🎯 Áreas de interés
 
 - Desarrollo de software
