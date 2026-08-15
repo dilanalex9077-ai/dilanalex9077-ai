@@ -30,13 +30,15 @@ Soy estudiante de la Universidad Tecnológica de Tula-Tepeji y me interesa combi
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
-También cuento con conocimientos de JDBC, SQL, sistemas operativos, direccionamiento IP, subnetting, configuración de routers y switches, diseño de redes y soporte técnico.
+También cuento con conocimientos de JDBC, SQL, sistemas operativos, direccionamiento IP, subnetting, configuración de routers y switches, diseño de redes, soporte técnico y fundamentos de ciberseguridad.
 
 ## 🚀 En qué estoy trabajando
 
 - Fortaleciendo mis proyectos de Java y MySQL con documentación profesional.
 - Ampliando mis laboratorios de redes, Linux y automatización con Bash.
+- Aprendiendo hacking ético, uso básico de Kali Linux y prevención de ataques de phishing.
 - Desarrollando **NOVA**, un proyecto tecnológico personal cuya implementación permanece privada.
 
 ## 💼 Experiencia y emprendimiento
@@ -89,6 +91,7 @@ Proyecto tecnológico personal actualmente en fase de diseño y desarrollo. Por 
 - Bases de datos
 - Soporte técnico
 - Ciberseguridad
+- Hacking ético y concientización sobre phishing
 
 ## 📫 Contacto
 
