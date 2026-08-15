@@ -29,6 +29,10 @@ Aplicación de escritorio desarrollada con Java Swing, JDBC y MySQL para adminis
 
 Proyecto académico que demuestra el uso de control de versiones y tecnologías web como HTML, CSS y JavaScript.
 
+### 📚 [Sistema de Biblioteca](https://github.com/dilanalex9077-ai/sistema-biblioteca)
+
+Aplicación Java Swing con MySQL y Maven para administrar libros, usuarios y préstamos mediante una arquitectura organizada por capas.
+
 ## 🎯 Áreas de interés
 
 - Desarrollo de software
