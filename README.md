@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Dilan Alejandro Martínez Mercado 👋
+# Hola, soy Dilan Alejandro Martínez Mercado 
 
 ### Desarrollo de software · Bases de datos · Infraestructura de redes
 
